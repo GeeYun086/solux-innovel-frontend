@@ -1,83 +1,66 @@
-<<<<<<< HEAD
-# frontend
-=======
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🪽 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 🪽
+![image](https://github.com/user-attachments/assets/ee1bf034-a025-44e8-aadc-e8b772c1d6c4) </br>
 
-# Getting Started
+> 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
+> 기간 : 2024.07 ~ 2024.08 </br>
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+</br>
 
-## Step 1: Start the Metro Server
+## 🔥 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄**
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+### 𝗕𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱
+![image](https://github.com/user-attachments/assets/00b493a8-753a-4516-b6c2-98b7dbe43fd9)
+![image](https://github.com/user-attachments/assets/279bdcd9-8113-4de1-ad96-326c6f62e9fc)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+- 국내 웹소설 시장의 성장에 따른 웹소설 작가 지망생의 증가 
+- 그러나 일반인이 웹소설 창작을 시작하는 것에는 많은 어려움이 있음 
 
-```bash
-# using npm
-npm start
 
-# OR using Yarn
-yarn start
-```
+### 𝗚𝗼𝗮𝗹𝘀
+![image](https://github.com/user-attachments/assets/7fe0dd07-d8b6-4667-bd7f-38fa4fbb46c8)
 
-## Step 2: Start your Application
+- 창의성 촉진 : 사용자에게 영감을 주기 위 다양한 아이디어를 제공함으로써 기존에 존재하지 않는 창의적인 소설 창작을 지원
+- 장르 다양성 확장 : 기존 작가들이 익숙하지 않은 장르를 시도해볼 수 있도록 장르별로 독창적인 줄거리를 제공
+- 창작 활성화 : 소설 창작에 입문하고자 하는 일반인의 등단을 돕고 다양한 분야의 소설 창작 활동 활성화를 촉진
+- 최신 인공지능 기술 활용 : 인공지능 기술을 처음 사용하는 고객도 쉽고 즐겁게 사용할 수 있도록 기능을 구현 
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+### 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 
-### For Android
+- InnoVel(이노블): `Into + Novel`의 합성어로 `I`와 `V`를 대문자로 강조하여 'AI' 약자처럼 표현함  
+- 사용자가 원하는 장르, 테마나 줄거리를 선택하면 인공지능을 기반으로 추천 플롯을 제공하여 소설을 쉽게 창작하고 공유할 수 있는 서비스
 
-```bash
-# using npm
-npm run android
+</br>
 
-# OR using Yarn
-yarn android
-```
+## 💡 **𝗠𝗮𝗶𝗻 𝗣𝗮𝗴𝗲**
+![image](https://github.com/user-attachments/assets/1044a583-b044-4251-a54a-a80c8f5b4af2)
 
-### For iOS
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
+</br>
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+## 🔧 **𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸**
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+| **분야**       | **사용 기술**                                 | 
+|----------------|---------------------------------------------|   
+| **[Frontend](https://github.com/solux-innovel/frontend)**   | React Native, TypeScript                         |
+| **[Backend](https://github.com/solux-innovel/backend)**    | Spring Boot, Java   | 
+| **Database**   | MySQL(RDS)                       |
+| **Open API**        | OpenAI 3.5 turbo  |
 
-## Step 3: Modifying your App
+</br>
 
-Now that you have successfully run the app, let's modify it.
+## 👥 **𝗠𝗲𝗺𝗯𝗲𝗿𝘀 𝗮𝗻𝗱 𝗥𝗼𝗹𝗲𝘀**
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+| **이름**            | **역할**              |
+|---------------------|-----------------------|
+| [**노경희**](https://github.com/khee2)     | PM, Backend |
+| [**배정연**](https://github.com/bluishflame)  | Frontend  |
+| [**윤정원**](https://github.com/Yun-Jeongwon) | Data |
+| [**이채영**](https://github.com/alwaysY0ung)     | Backend  |
+| [**정지윤**](https://github.com/GeeYun086)     | Frontend  |
+| [**조수아**](https://github.com/sua0316)     | Data  |
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+</br>
 
-## Congratulations! :tada:
 
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
->>>>>>> 7ef89c6 (Initial commit)
+## 🔗 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
