@@ -1,4 +1,4 @@
-# 📖 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 📖
+# 📖InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어📖
 ![image](https://github.com/user-attachments/assets/ee1bf034-a025-44e8-aadc-e8b772c1d6c4) </br>
 
 > 숙명여자대학교 프로그래밍 중앙동아리 SOLUX 2024-1학기 개발프로젝트 </br>
