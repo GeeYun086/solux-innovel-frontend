@@ -53,11 +53,11 @@
 
 ## 👥 **𝗠𝗲𝗺𝗯𝗲𝗿𝘀 𝗮𝗻𝗱 𝗥𝗼𝗹𝗲𝘀**
 
-| **이름**            | **역할**              |
-|---------------------|-----------------------|
-| [**배정연**](https://github.com/bluishflame)  | Frontend, 디자인 |
-| [**선수경**](https://github.com/SeonSukyeong) | Frontend |
-| [**정지윤**](https://github.com/GeeYun086)     | Frontend |
+| **이름**            | **역할**              | **담당 파트** |
+|---------------------|-----------------------|---------------|
+| [**배정연**](https://github.com/bluishflame)  | Frontend, 디자인 | 프로토타입, 메인페이지, 카카오 연동 |
+| [**선수경**](https://github.com/SeonSukyeong) | Frontend          | 검색패이지, 네이버 연동 |
+| [**정지윤**](https://github.com/GeeYun086)   | Frontend          | 마이페이지, AI 소설 창작 페이지 |
 </br>
 > [Innovel 프로젝트 설명 및 전체 팀원 소개 바로 가기](https://github.com/solux-innovel)
 </br></br>
