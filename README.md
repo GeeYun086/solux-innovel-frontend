@@ -1,8 +1,8 @@
-# 🪽 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 🪽
+# 📖 InnoVel(이노블): 인공지능과 함께 펼치는 무한한 아이디어 📖
 ![image](https://github.com/user-attachments/assets/ee1bf034-a025-44e8-aadc-e8b772c1d6c4) </br>
 
-> 숙명여자대학교 SW중심대학사업단 2024 DACOS&SOLUX 연합해커톤 </br>
-> 기간 : 2024.07 ~ 2024.08 </br>
+> 숙명여자대학교 프로그래밍 중앙동아리 SOLUX 2024-1학기 개발프로젝트 </br>
+> 기간 : 2024.03 ~ 2024.08 </br>
 
 </br>
 
@@ -49,18 +49,51 @@
 
 </br>
 
+# ✍️ **𝗜𝗻𝗻𝗼𝘃𝗲𝗹-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱** ✍️
+
 ## 👥 **𝗠𝗲𝗺𝗯𝗲𝗿𝘀 𝗮𝗻𝗱 𝗥𝗼𝗹𝗲𝘀**
 
 | **이름**            | **역할**              |
 |---------------------|-----------------------|
-| [**노경희**](https://github.com/khee2)     | PM, Backend |
-| [**배정연**](https://github.com/bluishflame)  | Frontend  |
-| [**윤정원**](https://github.com/Yun-Jeongwon) | Data |
-| [**이채영**](https://github.com/alwaysY0ung)     | Backend  |
-| [**정지윤**](https://github.com/GeeYun086)     | Frontend  |
-| [**조수아**](https://github.com/sua0316)     | Data  |
-
+| [**배정연**](https://github.com/bluishflame)  | Frontend, 디자인 |
+| [**선수경**](https://github.com/SeonSukyeong) | Frontend |
+| [**정지윤**](https://github.com/GeeYun086)     | Frontend |
 </br>
+> [Innovel 프로젝트 설명 및 전체 팀원 소개 바로 가기](https://github.com/solux-innovel)
+</br></br>
 
+## 📂 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗼𝗹𝗱𝗲𝗿 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
+
+```plaintext
+frontend/
+├── android/                # Android 네이티브 설정 및 빌드 관련 파일
+├── ios/                    # iOS 네이티브 설정 및 빌드 관련 파일
+├── __tests__/              # 테스트 코드
+├── App.tsx                 # 앱 진입점 (AppNavigator 렌더링)
+├── index.js                # 앱 등록 파일
+├── server.js               # 서버 실행 관련 파일
+├── imageGenerator.js       # 이미지 생성 관련 로직
+├── package.json            # 프로젝트 의존성 및 설정
+├── yarn.lock / package-lock.json  # 패키지 매니저 lock 파일
+└── src/
+    ├── img/                # 이미지 리소스 (아이콘, 로고, 배너 등)
+    │
+    ├── navigation/         # 네비게이션 관련 설정
+    │   ├── AppNavigator.tsx        # 전체 네비게이션 구조 정의
+    │   └── BottomTabNavigator.tsx  # 하단 탭 네비게이션 구성
+    │
+    ├── screens/            # 화면(Screen) 컴포넌트
+    │   ├── Create/         # 소설 생성 화면
+    │   ├── Home/           # 홈 화면
+    │   ├── Login/          # 로그인 화면
+    │   ├── MY/             # 마이페이지 화면
+    │   ├── Novel/          # 소설 관련 화면
+    │   └── Search/         # 검색 화면
+    │
+    └── styles/             # 화면별 스타일 정의
+        ├── Home/
+        └── Novel/
+```
+</br>
 
 ## 🔗 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
