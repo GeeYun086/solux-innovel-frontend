@@ -59,7 +59,9 @@
 | [**선수경**](https://github.com/SeonSukyeong) | Frontend          | 검색패이지, 네이버 연동 |
 | [**정지윤**](https://github.com/GeeYun086)   | Frontend          | 마이페이지, AI 소설 창작 페이지 |
 </br>
+
 > [Innovel 프로젝트 설명 및 전체 팀원 소개 바로 가기](https://github.com/solux-innovel)
+
 </br></br>
 
 ## 📂 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗼𝗹𝗱𝗲𝗿 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
